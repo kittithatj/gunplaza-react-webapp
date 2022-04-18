@@ -1,0 +1,10 @@
+.app-header {
+    background-color: rgb(235, 183, 12);
+    font-weight: bold;
+    font-size: x-large;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}

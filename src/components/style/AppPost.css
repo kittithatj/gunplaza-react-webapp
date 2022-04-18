@@ -1,0 +1,47 @@
+.app-post {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 999;
+}
+
+.post-backdrop {
+    background-color: rgba(0, 0, 0, 0.705);
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.post-content {
+    position: relative;
+    max-width: 1200px;
+}
+
+.post-content img{
+    float: left;
+    display: block;
+    max-width: 100%;
+    max-height: calc(100vh - 150px);
+}
+
+.content-main {
+    background-color: white;
+    display: block;
+    float: right;
+    padding-left: 5px;
+    padding-right: 5px;
+    width: calc(100vw / 3.5);
+    height: calc(100vh - 150px);
+}
+
+.desciption {
+    text-align: left;
+    padding: 20px;
+}

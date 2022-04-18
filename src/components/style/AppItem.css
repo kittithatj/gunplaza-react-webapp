@@ -1,0 +1,10 @@
+.app-grid-item img{
+    cursor: pointer;
+    display: block;
+    width: 100%;
+    height: 80%;
+}
+
+.app-grid-item h4{
+    cursor: pointer;
+}
