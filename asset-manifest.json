@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gunplaza-react-webapp/static/css/main.de1e226a.css",
+    "main.js": "/gunplaza-react-webapp/static/js/main.7418815d.js",
+    "static/js/787.99ef619b.chunk.js": "/gunplaza-react-webapp/static/js/787.99ef619b.chunk.js",
+    "index.html": "/gunplaza-react-webapp/index.html",
+    "main.de1e226a.css.map": "/gunplaza-react-webapp/static/css/main.de1e226a.css.map",
+    "main.7418815d.js.map": "/gunplaza-react-webapp/static/js/main.7418815d.js.map",
+    "787.99ef619b.chunk.js.map": "/gunplaza-react-webapp/static/js/787.99ef619b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de1e226a.css",
+    "static/js/main.7418815d.js"
+  ]
+}
